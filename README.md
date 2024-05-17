@@ -24,7 +24,7 @@ The Hospital Management System is a comprehensive database management and design
 
 ### Graphical User Interface (GUI)
 ![GUI Screenshot 1](gui_ss.png)
-*Small Scale Graphical User Inferace for the Patient table*
+*Small Scale Graphical User Inferace for the Patient table to perform CRUD operations on local machine*
 
 ### Power BI Dashboards
 ![Power BI Dashboard 1](powerbi_dashboard.png)
