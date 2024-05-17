@@ -27,7 +27,7 @@ The Hospital Management System is a comprehensive database management and design
 *Small Scale Graphical User Inferace for the Patient table*
 
 ### Power BI Dashboards
-![Power BI Dashboard 1](powerbi-dashboard.png)
+![Power BI Dashboard 1](powerbi_dashboard.png)
 *PowerBI analytics dashboard showcasing the various analytics the data shows for tracking and scheduling purposes*
 
 
