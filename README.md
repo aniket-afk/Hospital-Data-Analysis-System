@@ -20,6 +20,17 @@ The Hospital Management System is a comprehensive database management and design
 - **Patient Care**: Better patient care delivery leading to improved outcomes and satisfaction.
 - **Decision-Making**: Data-driven decision-making to transform the healthcare landscape.
 
+## Screenshots
+
+### Graphical User Interface (GUI)
+![GUI Screenshot 1](images/gui_ss.png)
+*Small Scale Graphical User Inferace for the Patient table*
+
+### Power BI Dashboards
+![Power BI Dashboard 1](images/powerbi-dashboard.png)
+*PowerBI analytics dashboard showcasing the various analytics the data shows for tracking and scheduling purposes*
+
+
 ## Usage
 1. **Login**: Use your credentials to log in to the system.
 2. **Dashboard**: Access the main dashboard to navigate different features.
