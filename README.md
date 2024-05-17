@@ -1,1 +1,1 @@
-# Hospital-Management-System-Database-Design
+# ProjectGroup8-Hospital_Management_System
