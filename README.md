@@ -52,4 +52,4 @@ We welcome contributions to improve the Hospital Management System. Please follo
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or suggestions, please contact us at [email@example.com](mailto:aniketpatole@gmail.com).
+For any questions or suggestions, please contact us at [aniketpatole6@gmail.com](mailto:aniketpatole@gmail.com).
